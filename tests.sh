@@ -26,3 +26,10 @@ echo "TEST 3 PASSED: HASHPIPE has proper output"
 else
 echo "TEST 3 FAILED: HASHPIPE hash proper output"
 fi
+
+if [ "`echo "abcd" | ./hashpipe 3330b4373640f9e4604991e73c7e86bfd8da2dc4 `" = "" ]
+then
+echo "TEST 4 PASSED: HASHPIPE failed to output properly"
+else
+echo "TEST 4 FAILED: HASHPIPE failed to fail to output"
+fi
