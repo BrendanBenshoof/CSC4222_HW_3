@@ -1,6 +1,8 @@
 Homework 3: Hashpipe
 =====================
 
+This homework will be due Thursday Nov 8th at 6am (like previous assigments)
+
 The purpose of this assignment is to write a useful unix utility in C.
 
 In unix system management, especially around installing bleeding edge tools, there is a recurrent pattern of using:
@@ -38,3 +40,6 @@ your code will need to address the following:
 - converting the results to a hexidecimal string
 - comparing the results with the argument provided
 - outputting results iff the hashes match
+
+
+You will submit C code that passes the included tests.sh
