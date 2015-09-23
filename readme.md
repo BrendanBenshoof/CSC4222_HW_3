@@ -1,4 +1,4 @@
-Homework 3: Hashpipe
+Homework 4: Hashpipe
 =====================
 
 The purpose of this assignment is to write a useful unix utility in C.
