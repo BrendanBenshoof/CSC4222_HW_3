@@ -1,7 +1,7 @@
 Homework 4: Hashpipe
 =====================
 
-This homework will be due Thursday Nov 8th at 6am (like previous assigments)
+This homework will be due Thursday Oct 8th at 6am (like previous assigments)
 
 The purpose of this assignment is to write a useful unix utility in C.
 
